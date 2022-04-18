@@ -1,0 +1,15 @@
+#pajina{
+    background-image: url("campo.jpg");
+    background-position: center;
+    background-size: 100%;
+    text-align: center;
+}
+#lienzo{
+    border-width: 10px;
+    border-style: dashed;
+    border-color: rgb(3, 37, 66);
+    border-radius: 100px;
+}
+#boton,#color,#ancho{
+font-size: 20px;
+}
